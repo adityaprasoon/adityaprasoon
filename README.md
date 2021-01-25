@@ -4,7 +4,7 @@
 - ✉️ Sign up to my newsletter on tech [here](https://adityaprasoon.substack.com/).
 - 💬 Ask me about Javascript.
 - 🎶 Find out if we share love for similar music. [Check my recent listens.](https://www.last.fm/user/adityaprasoon)
-- 📫 Drop me a letter at : prasoonaditya [at] gmail [dot] com
+- 📫 Drop me a letter at : adityaprasoon [at] protonmail [dot] com || prasoonaditya [at] gmail [dot] com
 - #️⃣ Tweet to me [@adityaprasoon](https://twitter.com/adityaprasoon21)
 - 😄 Pronouns: he/him
 <!--
