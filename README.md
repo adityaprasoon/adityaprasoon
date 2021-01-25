@@ -3,7 +3,7 @@
 - 📚 [Check out the books that I am currently reading.](https://www.goodreads.com/review/list/40569939-aditya?shelf=currently-reading)
 - ✉️ Sign up to my newsletter on tech [here](https://adityaprasoon.substack.com/).
 - 💬 Ask me about Javascript.
-- 🎶 Find out if we share love for similar music. [Check my recent listens.](https://www.last.fm/user/kingprafulla)
+- 🎶 Find out if we share love for similar music. [Check my recent listens.](https://www.last.fm/user/adityaprasoon)
 - 📫 Drop me a letter at : prasoonaditya [at] gmail [dot] com
 - #️⃣ Tweet to me [@adityaprasoon](https://twitter.com/adityaprasoon21)
 - 😄 Pronouns: he/him
