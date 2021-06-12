@@ -4,7 +4,7 @@
 - 💬 Ask me about ECMAScript.
 - 🎶 Find out if we share love for similar music. [Check my recent listens.](https://www.last.fm/user/adityaprasoon)
 - 📫 Drop me a letter at : adityaprasoon [at] protonmail [dot] com || prasoonaditya [at] gmail [dot] com
-- #️⃣ Tweet to me [@adityaprasoon](https://twitter.com/adityaprasoon21)
+- #️⃣ Tweet to me [@adityaprasoon21](https://twitter.com/adityaprasoon21)
 - 😄 Pronouns: he/him
 <!--
 **adityaprasoon/adityaprasoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
